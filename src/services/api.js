@@ -1,6 +1,6 @@
 import axios from "axios";
-// var baseUrl = "http://localhost:8000";
-var baseUrl = "https://task-manage-backend-ypmq.onrender.com";
+var baseUrl = "http://localhost:8000";
+// var baseUrl = "https://task-manage-backend-ypmq.onrender.com";
 
 
 const token = localStorage.getItem("accessToken");
